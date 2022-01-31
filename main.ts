@@ -8,4 +8,3 @@ input.onLogoEvent(TouchButtonEvent.Pressed, function () {
     soundExpression.giggle.playUntilDone()
     basic.showIcon(IconNames.Asleep)
 })
-basic.showIcon(IconNames.Asleep)
